@@ -53,7 +53,7 @@ export default class App extends React.Component{
             this.setState({generatedNumber:Math.floor(Math.random() * 3000) + 1000})
 
         }}>ZUIPUHHHH</button>
-        <div className="slider">
+      {/*  <div className="slider">
           <img src={imgArray[count]}/>
           <div className="buttons">{numbersArray.map((number) =>
             <div className="dot" onClick={() => (
@@ -68,7 +68,9 @@ export default class App extends React.Component{
       )}>
         add
         </button>
-        </div>
+        </div>*/}
+
+
           <div className="doosje">
             <div className="dvd"/>
             <div className="ball"/>
