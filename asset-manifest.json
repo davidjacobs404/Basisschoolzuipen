@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/basisschoolzuipen/static/css/main.8be2298f.chunk.css",
-    "main.js": "/basisschoolzuipen/static/js/main.68289114.chunk.js",
-    "main.js.map": "/basisschoolzuipen/static/js/main.68289114.chunk.js.map",
-    "runtime-main.js": "/basisschoolzuipen/static/js/runtime-main.6379ffb9.js",
-    "runtime-main.js.map": "/basisschoolzuipen/static/js/runtime-main.6379ffb9.js.map",
-    "static/js/2.b9bd2790.chunk.js": "/basisschoolzuipen/static/js/2.b9bd2790.chunk.js",
-    "static/js/2.b9bd2790.chunk.js.map": "/basisschoolzuipen/static/js/2.b9bd2790.chunk.js.map",
-    "index.html": "/basisschoolzuipen/index.html",
-    "precache-manifest.2aabd10af6fd11b200aef6bf9b12bad0.js": "/basisschoolzuipen/precache-manifest.2aabd10af6fd11b200aef6bf9b12bad0.js",
-    "service-worker.js": "/basisschoolzuipen/service-worker.js",
-    "static/css/main.8be2298f.chunk.css.map": "/basisschoolzuipen/static/css/main.8be2298f.chunk.css.map",
-    "static/js/2.b9bd2790.chunk.js.LICENSE.txt": "/basisschoolzuipen/static/js/2.b9bd2790.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/basisschoolzuipen/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.8be2298f.chunk.css",
+    "main.js": "/static/js/main.68289114.chunk.js",
+    "main.js.map": "/static/js/main.68289114.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.b9bd2790.chunk.js": "/static/js/2.b9bd2790.chunk.js",
+    "static/js/2.b9bd2790.chunk.js.map": "/static/js/2.b9bd2790.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.12d1b032e5ce50d7add80889de17b35b.js": "/precache-manifest.12d1b032e5ce50d7add80889de17b35b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8be2298f.chunk.css.map": "/static/css/main.8be2298f.chunk.css.map",
+    "static/js/2.b9bd2790.chunk.js.LICENSE.txt": "/static/js/2.b9bd2790.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6379ffb9.js",
+    "static/js/runtime-main.83c3e0c4.js",
     "static/js/2.b9bd2790.chunk.js",
     "static/css/main.8be2298f.chunk.css",
     "static/js/main.68289114.chunk.js"
